@@ -14,6 +14,16 @@
 
 ## try network access from container
 
+on container
+
 ```
 ping www.example.com
+```
+
+## launch xeyes from container
+
+on container
+
+```
+xeyes
 ```
