@@ -1,5 +1,5 @@
 FROM alpine
 
-RUN apk --no-cache add xeyes
+RUN apk --no-cache add bash xeyes
 
-CMD ["/usr/bin/xeyes"]
+CMD ["/bin/bash"]
