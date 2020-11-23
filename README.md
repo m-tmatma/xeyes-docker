@@ -12,6 +12,9 @@
 ./run.sh
 ```
 
+This script includes `xhost`.
+
+
 ## try network access from container
 
 on container
